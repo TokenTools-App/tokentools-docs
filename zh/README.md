@@ -1,2 +1,2 @@
-# TokenTool.Info 教程文档
+# tokentools.app 教程文档
 
